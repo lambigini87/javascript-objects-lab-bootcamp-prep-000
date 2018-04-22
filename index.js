@@ -1,1 +1,1 @@
-var Obj = new Object({})
+var recipes = new Object({})
